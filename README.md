@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aljauhari17
-- 👀 I’m interested in Web App and UI
+- 👀 I’m interested in Web App and UI Mobile
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter mongodb with Rest.API backend 
 - 📫 Contact me for collaborate ari.aljauhari17@gmail.com
